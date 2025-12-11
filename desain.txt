@@ -1,0 +1,31 @@
+Curriculum Vitae
+Data Pribadi
+•	Nama : Nena Fernanda
+•	Tempat, Tanggal Lahir : Banjarnegara, 09-02-2009
+•	Alamat : Karangkemiri RT 01/ RW 03, Wanadadi, Banjarnegara
+•	Jenis Kelamin : Perempuan
+•	Agama : Islam
+•	No. HP : 088670054976
+•	Email : nenaf2700@gmail.com
+________________________________________
+Riwayat Pendidikan
+•	2015 – 2021 : SD Negeri 2 Karangkemiri
+•	2021 – 2024 : SMP Negeri 1 Wanadadi
+•	2024 – Sekarang : SMK Negeri 1 Bawang
+________________________________________
+Keahlian / Skill
+•	Coding & Pemrograman:
+o	HTML, CSS, JavaScript (dasar pembuatan website)
+o	PHP & MySQL (membuat aplikasi berbasis web dan database)
+o	Python (dasar pemrograman)
+•	Desain Web:
+o	Bootstrap / Tailwind CSS
+•	Database Management:
+o	MySQL
+•	Office Tools:
+o	Microsoft Word, Excel, PowerPoint
+________________________________________
+Pengalaman / Proyek (jika ada)
+•	Membuat website sederhana untuk pemesanan makanan online
+•	Membuat sistem login & register berbasis PHP dan MySQL
+•	Desain landing page sekolah dengan HTML & CSS
