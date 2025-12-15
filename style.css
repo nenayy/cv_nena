@@ -7,7 +7,7 @@
 }
 
 .btn-glow:hover {
-    box-shadow: 0 0 15px rgba(102, 126, 234, 0.7);
+    box-shadow: 0 0 15px rgba(128, 140, 192, 0.7);
     transform: translateY(-2px);
 }
 
