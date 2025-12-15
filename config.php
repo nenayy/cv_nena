@@ -3,7 +3,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'dbcv_nena');
+define('DB_NAME', 'psas_db');
 
 // Connect to database
 function getConnection() {
